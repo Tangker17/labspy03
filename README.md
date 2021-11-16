@@ -2,7 +2,7 @@
 ## Tugas Melengkapi Praktikum 3
 | Nama | kelas | Nim | Matkul |
 | -- | --- | ---- | ----------- |
-| Muhammad Rizky Abdillah | TI.A2.20 | 312010386 | Bahasa Pemrograman |
+| ramon mister hadi| TI.21.AA.1| 312010508 | Bahasa Pemrograman |
 ## Daftar Isi
 | No | ISI | Link | Source Code |
 | -- | --- | ---- | ----------- |
